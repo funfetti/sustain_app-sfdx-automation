@@ -1,4 +1,5 @@
 https://github.com/stomita/sfdx-migration-automatic
+https://github.com/funfetti/sustainability-demo-data
 
 1.12
 
