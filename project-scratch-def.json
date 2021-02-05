@@ -1,0 +1,26 @@
+{
+  "orgName": "Sustainability Cloud - Template",
+  "edition": "Developer",
+  "adminEmail": "scratch@example.com",
+  "description": "fill me in!",
+  "features": [
+    "DevelopmentWave",
+    "SustainabilityCloud"
+  ],
+  "settings": {
+    "lightningExperienceSettings": {
+        "enableS1DesktopEnabled": true
+    },
+    "securitySettings": {
+        "passwordPolicies": {
+            "enableSetPasswordInApi": true
+        }
+    },
+    "mobileSettings": {
+        "enableS1EncryptedStoragePref2": false
+    },
+    "pathAssistantSettings": {
+      "pathAssistantEnabled": true
+    }
+  }
+}

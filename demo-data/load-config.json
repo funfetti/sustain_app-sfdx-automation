@@ -1,0 +1,54 @@
+{
+    "inputDir": ".",
+
+    "targets": [
+        {
+            "object": "sustain_app__Asset__c"
+        },
+        {
+            "object": "sustain_app__AssetContact__c"
+        },
+        {
+            "object": "sustain_app__ConsumptionReport__c"
+        },
+        {
+            "object": "sustain_app__ConsumptionReportItem__c"
+        },
+        {
+            "object": "sustain_app__Contact__c"
+        },
+        {
+            "object": "sustain_app__Contract__c"
+        },
+        {
+            "object": "sustain_app__EnergyConsumption__c"
+        },
+        {
+            "object": "sustain_app__ExtrapolationLog__c"
+        },
+        {
+            "object": "sustain_app__ServiceProvider__c"
+        }
+    ],
+
+    "mappings": [
+        {
+            "object": "sustain_app__EmissionFactorElectricity__c",
+            "keyField": "Name"
+        },
+        {
+            "object": "sustain_app__EmissionFactorOther__c",
+            "keyField": "Name"
+        },
+        {
+            "object": "sustain_app__EmissionFactorScope3__c",
+            "keyField": "Name"
+        },
+
+        {
+            "object": "RecordType",
+            "keyField": "DeveloperName"
+        }
+    ],
+    "idMapFile": "idmap.json"
+}

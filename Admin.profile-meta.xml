@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    
+    <layoutAssignments>
+        <layout>sustain_app__AssetContact__c-sustain_app__Asset Contact Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__Asset__c-sustain_app__Building Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__Asset__c-sustain_app__Building Layout</layout>
+        <recordType>sustain_app__Asset__c.sustain_app__Building</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__Asset__c-sustain_app__General</layout>
+        <recordType>sustain_app__Asset__c.sustain_app__General</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__Asset__c-sustain_app__Vehicle Layout</layout>
+        <recordType>sustain_app__Asset__c.sustain_app__Vehicle</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__ConsumptionReportItem__c-sustain_app__Sustainability Consumption Report Item Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__ConsumptionReport__c-sustain_app__Commercial Building Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__ConsumptionReport__c-sustain_app__Commercial Building Layout</layout>
+        <recordType>sustain_app__ConsumptionReport__c.sustain_app__Real_Estate_Facility</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__ConsumptionReport__c-sustain_app__Data Center Facility Layout</layout>
+        <recordType>sustain_app__ConsumptionReport__c.sustain_app__Data_Center_Facility</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__ConsumptionReport__c-sustain_app__Travel Layout</layout>
+        <recordType>sustain_app__ConsumptionReport__c.sustain_app__Travel</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__ConsumptionReport__c-sustain_app__Vehicles Layout</layout>
+        <recordType>sustain_app__ConsumptionReport__c.sustain_app__Vehicles</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__Contact__c-sustain_app__Sustainability Asset Contact Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__Contract__c-sustain_app__Energy Contract Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__Data_Gap_Filling_Log__c-sustain_app__Data Gap Filling Log Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__EmissionFactorElectricity__c-sustain_app__Electricity Emission Factor Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__EmissionFactorOther__c-sustain_app__CBECS Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__EmissionFactorOther__c-sustain_app__CBECS Layout</layout>
+        <recordType>sustain_app__EmissionFactorOther__c.sustain_app__CBECS</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__EmissionFactorOther__c-sustain_app__Conversion Factors Layout</layout>
+        <recordType>sustain_app__EmissionFactorOther__c.sustain_app__Conversion_Factors</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__EmissionFactorOther__c-sustain_app__Mobile Fuels Layout</layout>
+        <recordType>sustain_app__EmissionFactorOther__c.sustain_app__Mobile_Fuels</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__EmissionFactorOther__c-sustain_app__Refrigerants Layout</layout>
+        <recordType>sustain_app__EmissionFactorOther__c.sustain_app__Refrigerants</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__EmissionFactorScope3__c-sustain_app__Scope 3 Air Travel Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__EmissionFactorScope3__c-sustain_app__Scope 3 Air Travel Layout</layout>
+        <recordType>sustain_app__EmissionFactorScope3__c.sustain_app__Air_Travel</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__EmissionFactorScope3__c-sustain_app__Scope 3 Ground Travel Layout</layout>
+        <recordType>sustain_app__EmissionFactorScope3__c.sustain_app__Ground_Travel</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__EmissionFactorScope3__c-sustain_app__Scope 3 Hotel Stay Factor Layout</layout>
+        <recordType>sustain_app__EmissionFactorScope3__c.sustain_app__Hotel</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__EmissionFactorScope3__c-sustain_app__Scope 3 Rental Car Fuel Efficiency Layout</layout>
+        <recordType>sustain_app__EmissionFactorScope3__c.sustain_app__Rental_Car_Fuel_Efficiency</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__EmissionFactorScope3__c-sustain_app__Scope 3 Travel Layout</layout>
+        <recordType>sustain_app__EmissionFactorScope3__c.sustain_app__Travel</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__EnergyConsumption__c-sustain_app__Air Travel Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__EnergyConsumption__c-sustain_app__Air Travel Layout</layout>
+        <recordType>sustain_app__EnergyConsumption__c.sustain_app__Air_Travel</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__EnergyConsumption__c-sustain_app__Commercial Building Layout</layout>
+        <recordType>sustain_app__EnergyConsumption__c.sustain_app__Real_Estate_Facility</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__EnergyConsumption__c-sustain_app__Data Center Layout</layout>
+        <recordType>sustain_app__EnergyConsumption__c.sustain_app__Data_Center_Facility</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__EnergyConsumption__c-sustain_app__Fleet Vehicle Layout</layout>
+        <recordType>sustain_app__EnergyConsumption__c.sustain_app__Fleet_Vehicle</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__EnergyConsumption__c-sustain_app__Ground Travel Layout</layout>
+        <recordType>sustain_app__EnergyConsumption__c.sustain_app__Ground_Travel</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__EnergyConsumption__c-sustain_app__Hotel Stay Layout</layout>
+        <recordType>sustain_app__EnergyConsumption__c.sustain_app__Hotel_Stay</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__EnergyConsumption__c-sustain_app__Private Jet Layout</layout>
+        <recordType>sustain_app__EnergyConsumption__c.sustain_app__Private_Jet</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__EnergyConsumption__c-sustain_app__Rental Car Layout</layout>
+        <recordType>sustain_app__EnergyConsumption__c.sustain_app__Rental_Car</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__ExtrapolationLog__c-sustain_app__Sustainability Extrapolation Log Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__Global_Annual_Metrics__c-sustain_app__Global Annual Metrics Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>sustain_app__ServiceProvider__c-sustain_app__Energy Service Provider Layout</layout>
+    </layoutAssignments>
+</Profile>

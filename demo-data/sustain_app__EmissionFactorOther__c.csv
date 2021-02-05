@@ -1,0 +1,92 @@
+﻿Id,Name
+a076g000002tHW4AAM,Vehicle Emissions Factors
+a076g000002f71xAAA,Energy Intensity Reference Data
+a076g000002f71yAAA,General Conversion Factors
+a076g000002f71zAAA,Carbon tetrachloride - 2018 revision
+a076g000002f720AAA,CFC-11 / R11 (trichlorofluoromethane) - 2018 revision
+a076g000002f721AAA,CFC-113 - 2018 revision
+a076g000002f722AAA,CFC-114 - 2018 revision
+a076g000002f723AAA,CFC-115 - 2018 revision
+a076g000002f724AAA,CFC-12 / R12 (dichlorodifluoromethane) - 2018 revision
+a076g000002f725AAA,CFC-13 - 2018 revision
+a076g000002f726AAA,Dimethylether - 2018 revision
+a076g000002f727AAA,Halon-1211 - 2018 revision
+a076g000002f728AAA,Halon-1301 - 2018 revision
+a076g000002f729AAA,Halon-2402 - 2018 revision
+a076g000002f72AAAQ,HCFC-123 - 2018 revision
+a076g000002f72BAAQ,HCFC-124 - 2018 revision
+a076g000002f72CAAQ,HCFC-141b - 2018 revision
+a076g000002f72DAAQ,HCFC-142b - 2018 revision
+a076g000002f72EAAQ,HCFC-21 - 2018 revision
+a076g000002f72FAAQ,HCFC-22 / R22 (chlorodifluoromethane) - 2018 revision
+a076g000002f72GAAQ,HCFC-225ca - 2018 revision
+a076g000002f72HAAQ,HCFC-225cb - 2018 revision
+a076g000002f72IAAQ,HCFE-235da2 - 2018 revision
+a076g000002f72JAAQ,HFC-125 - 2018 revision
+a076g000002f72KAAQ,HFC-134 - 2018 revision
+a076g000002f72LAAQ,HFC-134a - 2018 revision
+a076g000002f72MAAQ,HFC-143 - 2018 revision
+a076g000002f72NAAQ,HFC-143a - 2018 revision
+a076g000002f72OAAQ,HFC-152 - 2018 revision
+a076g000002f72PAAQ,HFC-152a - 2018 revision
+a076g000002f72QAAQ,HFC-161 - 2018 revision
+a076g000002f72RAAQ,HFC-227ea - 2018 revision
+a076g000002f72SAAQ,HFC-23 - 2018 revision
+a076g000002f72TAAQ,HFC-236cb - 2018 revision
+a076g000002f72UAAQ,HFC-236ea - 2018 revision
+a076g000002f72VAAQ,HFC-236fa - 2018 revision
+a076g000002f72WAAQ,HFC-245ca - 2018 revision
+a076g000002f72XAAQ,HFC-245fa - 2018 revision
+a076g000002f72YAAQ,HFC-32 - 2018 revision
+a076g000002f72ZAAQ,HFC-365mfc - 2018 revision
+a076g000002f72aAAA,HFC-41 - 2018 revision
+a076g000002f72bAAA,HFC-43-I0mee - 2018 revision
+a076g000002f72cAAA,HFE-125 - 2018 revision
+a076g000002f72dAAA,HFE-134 - 2018 revision
+a076g000002f72eAAA,HFE-143a - 2018 revision
+a076g000002f72fAAA,HFE-236ca12 (HG-10) - 2018 revision
+a076g000002f72gAAA,HFE-245cb2 - 2018 revision
+a076g000002f72hAAA,HFE-245fa2 - 2018 revision
+a076g000002f72iAAA,HFE-254cb2 - 2018 revision
+a076g000002f72jAAA,HFE-338pcc13 (HG-01) - 2018 revision
+a076g000002f72kAAA,HFE-347mcc3 - 2018 revision
+a076g000002f72lAAA,HFE-347pcf2 - 2018 revision
+a076g000002f72mAAA,HFE-356pcc3 - 2018 revision
+a076g000002f72nAAA,HFE-43-10pccc124 (H-Galden1040x) - 2018 revision
+a076g000002f72oAAA,HFE-449sl (HFE-7100) - 2018 revision
+a076g000002f72pAAA,HFE-569sf2 (HFE-7200) - 2018 revision
+a076g000002f72qAAA,Methyl bromide - 2018 revision
+a076g000002f72rAAA,Methyl chloride - 2018 revision
+a076g000002f72sAAA,Methyl chloroform - 2018 revision
+a076g000002f72tAAA,Methylene chloride - 2018 revision
+a076g000002f72uAAA,Nitrogen trifluoride - 2018 revision
+a076g000002f72vAAA,Perfluorobutane (PFC-3-1-10) - 2018 revision
+a076g000002f72wAAA,Perfluorocyclobutane (PFC-318) - 2018 revision
+a076g000002f72xAAA,Perfluorocyclopropane - 2018 revision
+a076g000002f72yAAA,Perfluoroethane (PFC-116) - 2018 revision
+a076g000002f72zAAA,Perfluorohexane (PFC-5-1-14) - 2018 revision
+a076g000002f730AAA,Perfluoromethane (PFC-14) - 2018 revision
+a076g000002f731AAA,Perfluoropentane (PFC-4-1-12) - 2018 revision
+a076g000002f732AAA,Perfluoropropane (PFC-218) - 2018 revision
+a076g000002f733AAA,PFC-9-1-18 - 2018 revision
+a076g000002f734AAA,PFPMIE - 2018 revision
+a076g000002f735AAA,R-407C - 2018 revision
+a076g000002f736AAA,R-410A - 2018 revision
+a076g000002f737AAA,R-422D - 2018 revision
+a076g000002f738AAA,R1234yf - 2018 revision
+a076g000002f739AAA,R1234ze - 2018 revision
+a076g000002f73AAAQ,R134a - 2018 revision
+a076g000002f73BAAQ,R290 (propane) - 2018 revision
+a076g000002f73CAAQ,R403A - 2018 revision
+a076g000002f73DAAQ,R404A - 2018 revision
+a076g000002f73EAAQ,R406A - 2018 revision
+a076g000002f73FAAQ,R407A - 2018 revision
+a076g000002f73GAAQ,R407F - 2018 revision
+a076g000002f73HAAQ,R408A - 2018 revision
+a076g000002f73IAAQ,R409A - 2018 revision
+a076g000002f73JAAQ,R502 - 2018 revision
+a076g000002f73KAAQ,R507A - 2018 revision
+a076g000002f73LAAQ,R508B - 2018 revision
+a076g000002f73MAAQ,R600A (isobutane) - 2018 revision
+a076g000002f73NAAQ,Sulphur hexafluoride (SF6) - 2018 revision
+a076g000002f73OAAQ,Trifluoromethyl sulphur pentafluoride - 2018 revision

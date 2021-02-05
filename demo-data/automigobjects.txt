@@ -1,0 +1,32 @@
+https://github.com/stomita/sfdx-migration-automatic
+
+1.12
+
+RecordType,
+
+sustain_app__Asset__c,
+sustain_app__AssetContact__c,
+sustain_app__ConsumptionReport__c,
+sustain_app__ConsumptionReportItem__c,
+sustain_app__Contact__c,
+sustain_app__Contract__c,
+sustain_app__EnergyConsumption__c,
+sustain_app__ExtrapolationLog__c,
+sustain_app__ServiceProvider__c
+
+sustain_app__EmissionFactorElectricity__c,
+sustain_app__EmissionFactorOther__c,
+sustain_app__EmissionFactorScope3__c,
+
+
+
+
+sfdx automig:dump -d demo-data --json -o RecordType,sustain_app__Asset__c,sustain_app__AssetContact__c,sustain_app__ConsumptionReport__c,sustain_app__ConsumptionReportItem__c,sustain_app__Contact__c,sustain_app__Contract__c,sustain_app__EmissionFactorElectricity__c,sustain_app__EmissionFactorOther__c,sustain_app__EmissionFactorScope3__c,sustain_app__EnergyConsumption__c,sustain_app__ExtrapolationLog__c,sustain_app__ServiceProvider__c
+
+sfdx automig:load -d demo-data/ --concise --mappingobjects RecordType:DeveloperName,sustain_app__EmissionFactorElectricity__c:Name,sustain_app__EmissionFactorOther__c:Name,sustain_app__EmissionFactorScope3__c:Name
+
+
+### if using the configuration files 
+sfdx automig:dump -f dump-config.json
+sfdx automig:load -f load-config.json
+

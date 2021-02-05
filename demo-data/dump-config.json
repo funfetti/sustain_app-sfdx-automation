@@ -1,0 +1,63 @@
+{
+    "outputDir": ".",
+    "targets": [
+        {
+            "target": "query",
+            "object": "sustain_app__Asset__c"
+        },
+        {
+            "target": "query",
+            "object": "sustain_app__AssetContact__c"
+        },
+        {
+            "target": "query",
+            "object": "sustain_app__ConsumptionReport__c"
+        },
+        {
+            "target": "query",
+            "object": "sustain_app__ConsumptionReportItem__c"
+        },
+        {
+            "target": "query",
+            "object": "sustain_app__Contact__c"
+        },
+        {
+            "target": "query",
+            "object": "sustain_app__Contract__c"
+        },
+        {
+            "target": "query",
+            "object": "sustain_app__EnergyConsumption__c"
+        },
+        {
+            "target": "query",
+            "object": "sustain_app__ExtrapolationLog__c"
+        },
+        {
+            "target": "query",
+            "object": "sustain_app__ServiceProvider__c"
+        },
+
+        {
+            "target": "query",
+            "object": "sustain_app__EmissionFactorElectricity__c",
+            "fields": ["Id", "Name"]
+        },
+        {
+            "target": "query",
+            "object": "sustain_app__EmissionFactorOther__c",
+            "fields": ["Id", "Name"]
+        },
+        {
+            "target": "query",
+            "object": "sustain_app__EmissionFactorScope3__c",
+            "fields": ["Id", "Name"]
+        },
+
+        {
+            "target": "query",
+            "object": "RecordType"
+        }
+    ],
+    "idMapFile": "idmap.json"
+}
